@@ -1,4 +1,8 @@
-## Uepa
+## Bem-vindos ao meu perfil!♡
+
+
+•Estou estudando no alura✮
+•Utilizo esse app para desenvolvimentos de projetos✮
 
 <!--
 **juuuliaAkiane/juuuliaAkiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
