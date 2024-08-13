@@ -2,6 +2,7 @@
 
 
 •Estou estudando no alura✮
+
 •Utilizo esse app para desenvolvimentos de projetos✮
 
 <!--
